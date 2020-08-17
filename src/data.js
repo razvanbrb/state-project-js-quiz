@@ -1,3 +1,10 @@
+/* Suggested Initial State
+
+  this file contains a suggestion of what your initial state should include
+  feel free to modify, add or remove properties as your team's project evolves
+
+*/
+
 const state = {
   // how many questions has the user answered?
   //  you can calculate this value by iterating through the questions
